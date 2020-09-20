@@ -91,4 +91,8 @@ XML:
 11.	**¿Qué son los headers en un request? ¿Para qué se utilizar el key Content-type en un header?**
 
       Los headers transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El  Content-Type se utiliza para indicar el tipo de medio     del recurso. Por ejemplo para el archivo de imagen, su tipo de medio será como image / png o image / jpg, etc. 
+      
+## Ejercicio 3
+### item 3
+  Las diferencias que se observan son que dado que en el item anterior se hizo un POST con nuetsros datos al realizar nuevamente un GET a la misma url se puede observar como se   obtuvieron los datos previamente insertados.
 
