@@ -13,7 +13,8 @@
 7.	**¿Qué verbo http utiliza el navegador cuando accedemos a una página?** Utiliza GET
 8.	**Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.** las estructuras de datos en JSON son los objetos enceraado entre *{objeto}* y los \[array]\ en XML estas mismas estructuras se encierran entre etiquetas al estilo HTML
 ejemplos: XML: 
-
+<EjXML>
+      
       <alumnos>
       
       
@@ -42,7 +43,7 @@ ejemplos: XML:
       
       
       <alumnos>
-        
+<EjXML>   
         
 9.	**Explicar brevemente el estandar SOAP**
 10.	Explicar brevemente el estandar REST Full
