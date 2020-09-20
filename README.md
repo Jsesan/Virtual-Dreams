@@ -14,7 +14,7 @@
 8.	**Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.** las estructuras de datos en JSON son los objetos enceraado entre *{objeto}* y los \[array]\ en XML estas mismas estructuras se encierran entre etiquetas al estilo HTML
 ejemplos: XML: 
 
-\<alumnos>
+<alumnos>
       <alumno>
             <alumno_nya>Juan Sesan<alumno_nya>
             <alumno_edad>20<\alumno_edad>
@@ -23,8 +23,10 @@ ejemplos: XML:
             <alumno_nya>Martin Perez<alumno_nya>
             <alumno_edad>23<\alumno_edad>
       <\alumno>
-  <alumnos>\
-9.	Explicar brevemente el estandar SOAP
+  <alumnos>
+        
+        
+9.	**Explicar brevemente el estandar SOAP**
 10.	Explicar brevemente el estandar REST Full
 11.	¿Qué son los headers en un request? ¿Para qué se utilizar el key Content-type en un header?
 
