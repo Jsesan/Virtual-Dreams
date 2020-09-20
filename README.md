@@ -26,7 +26,9 @@ Usamos links para ejecutar llamadas GET ya que la idea del link es simplemente �
 8.	**Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.**
 
 Las estructuras de datos en JSON son los objetos enceraado entre *{objeto}* y los \[array]\ en XML estas mismas estructuras se encierran entre etiquetas al estilo HTML
-ejemplos: XML: 
+ejemplos: 
+
+XML: 
 <EjXML>
       
       <alumnos>
@@ -61,7 +63,7 @@ ejemplos: XML:
       JSON:
  <EjJSON>
        
-       "alumnos": /[
+       "alumnos":  [
                    {
                    "almuno": {
                               "alumno_nya":"Juan Sesan",
@@ -72,10 +74,19 @@ ejemplos: XML:
                                "alumno_edad":"23"
                              }
                     }
-                    ]\
+                    ]
        
 <EjJSON>
+      
 9.	**Explicar brevemente el estandar SOAP**
-10.	Explicar brevemente el estandar REST Full
-11.	¿Qué son los headers en un request? ¿Para qué se utilizar el key Content-type en un header?
+
+      SOAP es un protocolo que define de que manera pueden comunicarse dos objetos mediante el intercambio de datos XML.
+      
+10.	**Explicar brevemente el estandar REST Full**
+      
+      *REST* es una tecnología mucho más flexible que transporta datos por medio del protocolo HTTP, pero este permite utilizar los diversos verbos que proporciona HTTP para           comunicarse y utiliza los responseCode nativos de HTTP. *RESTful* es un servicio web basado en *REST*.
+      
+11.	**¿Qué son los headers en un request? ¿Para qué se utilizar el key Content-type en un header?**
+
+      Los headers transmiten información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El  Content-Type se utiliza para indicar el tipo de medio    del recurso. Por ejemplo para el archivo de imagen, su tipo de medio será como image / png o image / jpg, etc. 
 
