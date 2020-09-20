@@ -15,14 +15,32 @@
 ejemplos: XML: 
 
 <alumnos>
+      
+      
       <alumno>
+      
+      
             <alumno_nya>Juan Sesan<alumno_nya>
+            
+            
             <alumno_edad>20<\alumno_edad>
+            
+            
       <\alumno>
+      
+      
        <alumno>
+       
+       
             <alumno_nya>Martin Perez<alumno_nya>
+            
+            
             <alumno_edad>23<\alumno_edad>
+            
+            
       <\alumno>
+      
+      
   <alumnos>
         
         
