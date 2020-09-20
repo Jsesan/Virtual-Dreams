@@ -94,5 +94,5 @@ XML:
       
 ## Ejercicio 3
 ### item 3
-      Las diferencias que se observan son que dado que en el item anterior se hizo un POST con nuetsros datos al realizar nuevamente un GET a la misma url se puede observar como se obtuvieron los datos previamente insertados
+  Las diferencias que se observan son que dado que en el item anterior se hizo un POST con nuetsros datos al realizar nuevamente un GET a la misma url se puede observar como se   obtuvieron los datos previamente insertados
 
