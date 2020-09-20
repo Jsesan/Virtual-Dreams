@@ -14,7 +14,7 @@
 8.	**Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.** las estructuras de datos en JSON son los objetos enceraado entre *{objeto}* y los \[array]\ en XML estas mismas estructuras se encierran entre etiquetas al estilo HTML
 ejemplos: XML: 
 
-<alumnos>
+      <alumnos>
       
       
       <alumno>
@@ -41,7 +41,7 @@ ejemplos: XML:
       <\alumno>
       
       
-  <alumnos>
+      <alumnos>
         
         
 9.	**Explicar brevemente el estandar SOAP**
