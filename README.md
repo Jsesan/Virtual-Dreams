@@ -1,9 +1,10 @@
 # Virtual-Dreams
 
-**Ejercicio 2**
+## Ejercicio 2
 1.	¿Qué es un servidor HTTP? 
-    **R**:
+      Un servidor HTTP es un programa que tiene la función de procesar los scripts del lado del servidor para dar una salida en HTML y otros lenguajes del lado del cliente al           navegador web del cliente.
 2.	¿Qué son los verbos HTTP? Mencionar los más conocidos
+   En HTTP se define como verbos HTTP a las "palabras reservadas" para indicar la acción que se desea realizar para un recurso determinado. Los mas conocidos son: GET, POST, HEAD,    DELETE.
 3.	¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers? 
 4.	¿Qué es un queryString? (En una url)
 5.	¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?
