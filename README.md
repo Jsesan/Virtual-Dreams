@@ -8,8 +8,7 @@
 
    En HTTP se define como verbos HTTP a las "palabras reservadas" para indicar la acción que se desea realizar para un recurso determinado. Los mas conocidos son: GET, POST, HEAD,    DELETE.
 3.	**¿Qué es un request y un response en una comunicación HTTP? ¿Qué son los headers?**
-
-           request y response son los dos tipos de mensajes HTTP tal que si el cliente le envia un pedido (request) el servidor le devuelve la respuesta (response), Las cabeceras              transmiten informacion necesaria para la comunicacion como tipo de navegadoro, informacion de la pagina o servidor mismo. 
+     request y response son los dos tipos de mensajes HTTP tal que si el cliente le envia un pedido (request) el servidor le devuelve la respuesta (response), Las cabeceras              transmiten informacion necesaria para la comunicacion como tipo de navegadoro, informacion de la pagina o servidor mismo. 
 4.	**¿Qué es un queryString? (En una url)** Una cadena de consulta es parte de la URL que asigna valores a parámetros especificados.
 5.	**¿Qué es el responseCode? ¿Qué significado tiene los posibles valores devueltos?** El responseCode es un codigo de 3 digitos que donde el primero digito define que tipo de        respuesta estamos obteniendo hay 5 valores para el primer digito: *1XX(informativo); 2XX (Exito); 3XX(Redireccionamiento); 4XX(Error de cliente); 5XX(Error de servidor).*          Para cada uno de estos los siguientes dos digitos definen que codigo puntual se nos esta respondiendo. 
 6.	**¿Cómo se envía data en un Get y cómo en un POST?**  Usamos links para ejecutar llamadas GET ya que la idea del link es simplemente “solicitar” una información (pagina) al        servidor y que sea devuelta como una respuesta. Ecambio POST usamos formularios para actualizar datos, como artículos, usuarios, etc.
