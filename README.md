@@ -102,13 +102,15 @@ XML:
    2. En este nos posicionamo en la ruta donde este la carpeta 'scripts'
    
    3. Una vez dentro del directerio escribimos...
+   
  <Ej>
       
        node servidor.js      
  <Ej>
+      
    4. La consola debe respondernos "escuchando puerto 3000"
       
-   5. Ahora nos dirigimos a [localHost](localHost:3000).
+   5. Ahora nos dirigimos al navegador y escribimos 'localhost:3000' .
    
    6. Ahora completamos el formulario y enviamos.
    
