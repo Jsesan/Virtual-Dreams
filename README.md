@@ -104,3 +104,10 @@ XML:
       
        node servidor.js      
  <Ej>
+   4. La consola debe respondernos "escuchando puerto 3000"
+   5. Ahora nos dirigimos a [localHost](localHost:3000).
+   6. Ahora completamos el formulario y enviamos.
+   7. Si quisieramos verificar si nuestros datos fueron correctamente cargados pordemos hacerlo con postman (realizando un GET a la url) o bien con la url misma.
+      
+## Despedida
+Muchisimas gracias por la oportunidad, en caso de no ser considerado por el puesto me encantaria volver a intentarlo mas adelante reforzando todos estos conocimientos. Saludos!
