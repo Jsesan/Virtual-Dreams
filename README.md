@@ -96,3 +96,11 @@ XML:
 ### item 3
   Las diferencias que se observan son que dado que en el item anterior se hizo un POST con nuetsros datos al realizar nuevamente un GET a la misma url se puede observar como se   obtuvieron los datos previamente insertados.
 
+## Como Ejecutar
+   1. Abrimos el simbolo del sistema
+   2. En este nos posicionamo en la ruta donde este la carpeta 'scripts'
+   3. Una vez dentro del directerio escribimos...
+ <Ej>
+      
+       node servidor.js      
+ <Ej>
